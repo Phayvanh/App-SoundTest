@@ -26,25 +26,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="14" selection-start="757" selection-end="757" vertical-scroll-proportion="-12.0" vertical-offset="0" max-vertical-offset="522">
+            <state line="14" column="28" selection-start="706" selection-end="706" vertical-scroll-proportion="-9.333333" vertical-offset="0" max-vertical-offset="486">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="45" selection-start="138" selection-end="138" vertical-scroll-proportion="0.054836255" vertical-offset="0" max-vertical-offset="1313">
+            <state line="4" column="45" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="666">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="0" selection-start="2823" selection-end="2914" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1872">
+            <state line="35" column="0" selection-start="1168" selection-end="1168" vertical-scroll-proportion="0.36" vertical-offset="162" max-vertical-offset="1980">
               <folding />
             </state>
           </provider>
@@ -60,9 +60,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/index.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/index.css" />
       </list>
     </option>
   </component>
@@ -245,23 +245,23 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
+    <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="0" selection-start="2823" selection-end="2914" vertical-scroll-proportion="0.0" vertical-offset="572" max-vertical-offset="1872">
+        <state line="4" column="45" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="666">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="14" selection-start="757" selection-end="757" vertical-scroll-proportion="-12.0" vertical-offset="0" max-vertical-offset="522">
+        <state line="14" column="28" selection-start="706" selection-end="706" vertical-scroll-proportion="-9.333333" vertical-offset="0" max-vertical-offset="486">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/index.js">
+    <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="45" selection-start="138" selection-end="138" vertical-scroll-proportion="0.054836255" vertical-offset="0" max-vertical-offset="1313">
+        <state line="35" column="0" selection-start="1168" selection-end="1168" vertical-scroll-proportion="0.36" vertical-offset="162" max-vertical-offset="1980">
           <folding />
         </state>
       </provider>
