@@ -2,7 +2,7 @@ document.addEventListener('deviceready', function() {
 
     var bipbipSound = new Media
     (
-        cordova.file.applicationDirectory + 'www/audio/bipbip.wav',
+        cordova.file.applicationDirectory + '/www/audio/bipbip.wav',
         mediaSuccess,
         mediaError,
         mediaStatus
@@ -23,7 +23,7 @@ document.addEventListener('deviceready', function() {
 
     }
 
-    document.querySelector('button').addEventListener('click',function()
+    document.querySelectorAll('button').addEventListener('click',function()
     {
         bipbipSound.play();
     });
