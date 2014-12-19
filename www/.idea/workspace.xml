@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="944" selection-end="944" vertical-scroll-proportion="-16.0" vertical-offset="0" max-vertical-offset="540">
+            <state line="18" column="14" selection-start="757" selection-end="757" vertical-scroll-proportion="-12.0" vertical-offset="0" max-vertical-offset="522">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="5" selection-start="310" selection-end="310" vertical-scroll-proportion="0.21934502" vertical-offset="0" max-vertical-offset="1313">
+            <state line="4" column="45" selection-start="138" selection-end="138" vertical-scroll-proportion="0.054836255" vertical-offset="0" max-vertical-offset="1313">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="0" selection-start="2823" selection-end="2914" vertical-scroll-proportion="0.0" vertical-offset="572" max-vertical-offset="1872">
+            <state line="98" column="0" selection-start="2823" selection-end="2914" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1872">
               <folding />
             </state>
           </provider>
@@ -254,14 +254,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="944" selection-end="944" vertical-scroll-proportion="-16.0" vertical-offset="0" max-vertical-offset="540">
+        <state line="18" column="14" selection-start="757" selection-end="757" vertical-scroll-proportion="-12.0" vertical-offset="0" max-vertical-offset="522">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="5" selection-start="310" selection-end="310" vertical-scroll-proportion="0.21934502" vertical-offset="0" max-vertical-offset="1313">
+        <state line="4" column="45" selection-start="138" selection-end="138" vertical-scroll-proportion="0.054836255" vertical-offset="0" max-vertical-offset="1313">
           <folding />
         </state>
       </provider>
